@@ -7,7 +7,10 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h2>Home 입니다</h2>
-<a href="/test">Test</a>
+   <h2>Home 입니다</h2>
+   <a href="/test">Test</a>
 </body>
 </html>
+
+
+
